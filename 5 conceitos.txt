@@ -1,0 +1,23 @@
+• Servidor (computação) 
+Servidor de computação, é um computador com um Hardware especifico e sistemas operacionais próprios, que tem o objetivo de entregar serviços para as demais máquinas, tanto em rede locais, como na internet.
+Possui algumas especificações, mas é basicamente entendido como um super computador.
+
+• Jurimetria
+Jurimetria é a estatística aplicada ao direito, em uma análise simples e direta. Ou seja, é a ciência dedicada ao estudo e compreensão da aplicação da doutrina e jurisprudência. 
+Ela proporciona condições de análises descritivas, diagnósticas e preditivas mais profundas. Além disso, consegue evidenciar dinâmicas sobre a causa raiz de situações identificadas como relevantes. E, quando utilizados recursos tecnológicos especializados, permite criar aprendizado e orientar ações práticas mitigatórias.
+
+• Zero Rating
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens.
+
+• Inteligência artificial 
+A inteligência artificial é um campo da ciência da computação que se dedica ao estudo e ao desenvolvimento de máquinas e programas computacionais capazes de reproduzir o comportamento humano na tomada de decisões e na realização de tarefas, desde as mais simples até as mais complexas.
+
+• Banco de dados 
+Um banco de dados é um conjunto estruturado de dados, normalmente armazenados em sistemas organizados e que operam eletronicamente.
+O objetivo principal é armazenar dados sobre um mesmo assunto em um local central, seguro e de fácil manipulação. 
+
+https://4infra.com.br/o-que-e-um-servidor-em-computacao/
+www.projuris.com.br/blog/jurimetria
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm
+https://www.cursospm3.com.br/blog/banco-de-dados/
