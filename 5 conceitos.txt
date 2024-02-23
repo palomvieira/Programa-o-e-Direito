@@ -16,8 +16,30 @@ A inteligência artificial é um campo da ciência da computação que se dedica
 Um banco de dados é um conjunto estruturado de dados, normalmente armazenados em sistemas organizados e que operam eletronicamente.
 O objetivo principal é armazenar dados sobre um mesmo assunto em um local central, seguro e de fácil manipulação. 
 
+• Algoritimo
+Os algoritimos são a base do desenvolvimente de software e fazem parte das ferramentas utilizadas por programadores para solucionar problemas e executar processos. É uma espécie de regra, compreendido em passos para resolver um problema, ou executar uma tarefa. Ou seja, ele ensina a lidar com o problema e resolve-lo. Os passos de uma receita de bolo, por exemplo, são uma especie de algoritimo, ensinando seu passo a passo.
+
+• Dados 
+Os dados são valores atribuidos a algo, não necessariamente numéricos. Os dados transmitem informação descrevendo fatos como quantidade, qualidade, fatos, estatiticas. Os dados podem apresentar ideias abstratas ou concretas. Os dados são criaçoes humanas utilizadas para lidar com a realidade, logo, estão sujeitos a determinados erros e inverdades desde sua coleta, até seu tratamento e análise e sua enfim distribuição.
+
+• Nuvem
+O termo nuvem se refere para a descricao de uma rede global de servidores, onde cada um possui uma funcao própria. A nuvem nao é física, ou seja, não pode ser vista, mas ela opera dentro de uma grande rede de servidores que são conectados e operam como um ecossistema. Esses sao encarregados de armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais.
+
+• Neutralidade da Rede
+O conceito define o tratamento da navegação dos usuários na internet pelas operadoras de telecomunicações. A neutralidade é o princípio que determina que todos sejam tratados com igualdade, sem que haja benefício para uns e não para outros na hora de navegar ou que haja limitação para clientes específicos.
+
+• Sistema de Arquivo
+Um Sistema de Arquivos é um sistema utilizado para armazenar, organizar e acessar dados em um computador de forma efetiva. Os dispositivos que utilizam sistemas de arquivos são discos rígidos, mídias ópticas como CDs e DVDs, cartões de memória e pendrives (flash drives) e discos flexíveis (disquetes), entre outros. Um sistema de arquivos permite o armazenamento organizado de arquivos, agregando características a cada arquivo como um nome, permissões de acesso, atributos especiais e um índice, que é uma lista de arquivos na partição que informa onde cada arquivo está localizado no disco. Assim, o sistema operacional é capaz de encontrar o arquivo em seu local de armazenamento rapidamente. Os arquivos podem ser acessados em um dispositivo de armazenamento por meio de interface gráfica ou linha de comandos. Ambas as interfaces podem interagir com o sistema de arquivos empregado.
+
 https://4infra.com.br/o-que-e-um-servidor-em-computacao/
 www.projuris.com.br/blog/jurimetria
 https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
 https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm
 https://www.cursospm3.com.br/blog/banco-de-dados/
+https://blog.betrybe.com/tecnologia/algoritmo/
+https://todasasrespostas.pt/o-que-sao-dados-na-informatica
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/
+https://idec.org.br/consultas/dicas-e-direitos/neutralidade-da-rede-entenda-o-significado-e-a-importancia-do-conceito
+https://www.bosontreinamentos.com.br/hardware/o-que-e-um-sistema-de-arquivos-file-system/
+
+
