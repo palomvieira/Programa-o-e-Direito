@@ -1,0 +1,24 @@
+Primeiro precisamos entender um pouco o que seria cada uma dessas definições.
+
+LGPD - A Lei Geral de Proteção de Dados, ou LGPD, é uma legislação que busca proteger a nossa privacidade e segurança na era digital. Ela foi criada para garantir que as nossas informações pessoais sejam tratadas de forma adequada e segura por empresas e organizações.
+
+Data Centers - Um data center é uma sala, prédio ou instalação física que abriga a infraestrutura de TI para desenvolvimento, execução e entrega de aplicativos e serviços, além de armazenar e gerenciar os dados associados a esses aplicativos e serviços.
+
+Desde que a LGPD ingressou, recentemente, todas as organizações que descumprirem os requisitos da lei ficam sujeitas a sanções administrativas, que partem de simples advertências à cobrança de até R$ 50 milhões por infração. Nesse sentido, a LGPD estabelece, ainda, que não importa se a sede de uma organização ou o seu Data Center estão localizados no Brasil ou no exterior, ou ainda se os dados são tratados no meio físico ou nos digitais: todos estão sujeitos à regulação. 
+
+Uma das funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Por isso, a infraestrutura de rede não pode ficar inoperante em razão de um problema de link de internet, por exemplo. Desse modo, o gestor da estrutura na qual estão hospedados os servidores precisa oferecer conexões redundantes, com mais de um fornecedor de rede. Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD. E aqui vale a pena enfatizar, a título de esclarecimento, uma premissa: apesar de não atuarmos diretamente no processamento dos dados dos usuários, cabe a nós, provedores de infraestrutura, garantir a proteção física dos ambientes para a gestão segura das informações.
+
+A tecnologia tem papel fundamental no dia a dia das empresas, principalmente no cenário pós-COVID. Contudo, a aceleração da digitalização elevou a datasfera global a um volume de dados sigilosos jamais visto. Consequentemente, os hackers encontraram um novo cenário para a prática de crimes virtuais: uma brecha, quando bem explorada, pode render o acesso a registros com alto valor. Nesse cenário, investir em segurança de dados tornou-se primordial. A pressão do mercado levou os governos a normatizar o uso de dados de terceiros, conferindo maior controle ao usuário sobre suas informações. E, consequentemente, auxiliando negócios a seguirem uma política de privacidade mais objetiva e transparente. Diante desse cenário, uma boa forma de promover a segurança do Data Center é alinhá-lo a padrões internacionais de segurança de dados, como a ISO 27000 e a PCI DSS. Tais certificações estabelecem processos capazes de manter uma política de cibersegurança mais robusta e confiável na organização. Portanto, investir nelas (e na posterior certificação), torna o negócio mais competitivo e preparado para mitigar e lidar com eventuais ataques.
+
+No cenário da LGPD para Data Centers, dentre as sanções administrativas previstas no caso de violação das regras destacam-se:
+
+. advertência, com possibilidade de medidas corretivas;
+. multa de até 2% do faturamento, com limite de até R$ 50 milhões;
+. bloqueio ou eliminação dos dados pessoais relacionados à irregularidade
+. suspensão parcial do funcionamento do banco de dados ou a proibição parcial ou total da atividade de tratamento.
+
+- Fontes: 
+
+https://reyabogado.com/brasil/o-que-e-a-lgpd-resumo/#google_vignette
+https://www.ibm.com/br-pt/topics/data-centers
+https://odatacolocation.com/blog/lgpd-para-datacenters/
