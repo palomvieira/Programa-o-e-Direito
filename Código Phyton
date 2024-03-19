@@ -3,9 +3,7 @@ pares = []
 for item in numeros:
     if(item%2 == 0):
         pares.append(item)
-
-for x in pares:
-    print("Número: ", x)
+print(pares)
 
 
 
