@@ -1,0 +1,7 @@
+def triangulo(n):
+    desenho = ""
+    for i in range(n + 1):
+         desenho += ("*" * i + "\n")
+    return desenho
+
+print(triangulo(10))
