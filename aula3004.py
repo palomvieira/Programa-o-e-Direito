@@ -22,22 +22,22 @@ print("[OK]") # Saída: Loading [OK]
 
 
 #nome = input("Digite seu nome: ")
-#print("Olá", nome)
+print("Olá", nome)
 
 
 # Captura uma linha de entrada e a converte em uma lista de strings
-#itens = input("Digite itens separados por vírgula: ").split(',')
-#print("Itens:", itens)
+itens = input("Digite itens separados por vírgula: ").split(',')
+print("Itens:", itens)
 
 
 # Convertendo a entrada para inteiro
-#idade = int(input("Digite sua idade: "))
-#print("Daqui a cinco anos, você terá", idade + 5, "anos.")
+idade = int(input("Digite sua idade: "))
+print("Daqui a cinco anos, você terá", idade + 5, "anos.")
 
 
 # Convertendo a entrada para float
-#altura = float(input("Digite sua altura em metros: "))
-#print("Sua altura é", altura, "metros.")
+altura = float(input("Digite sua altura em metros: "))
+print("Sua altura é", altura, "metros.")
 
 
 def trinta_por_cento():
